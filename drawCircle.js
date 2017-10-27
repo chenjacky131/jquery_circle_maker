@@ -1,6 +1,5 @@
 /*
  *  参数说明 
- *  targetId:画布id(String)
  *  strokeStyle:圆边框颜色(String)
  *  strokeWidth:圆边框大小(Number)
  *  circleWidth:圆的大小(Number)
