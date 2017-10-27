@@ -16,3 +16,5 @@ jquery plugin practice
     circleTime:2500
   });
 ```
+
+demo[https://chenjacky131.github.io/jquery_circle_maker/]
