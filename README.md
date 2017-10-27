@@ -17,4 +17,4 @@ jquery plugin practice
   });
 ```
 
-demo[https://chenjacky131.github.io/jquery_circle_maker/]
+[demo](https://chenjacky131.github.io/jquery_circle_maker)
